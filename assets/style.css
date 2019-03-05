@@ -1,0 +1,22 @@
+* {
+	outline: solid 0.25rem hsla(100, 50%, 50%, 0.5);
+}
+body {
+	padding: 0;
+}
+.grid-container {
+	display: grid;
+}
+header {
+	display: inline-grid;
+	grid-column: 1 / span 3;
+}
+.content {
+	display: inline-grid;
+	grid-column: 2 / 3;
+	background-color: #f4d142;
+}
+footer {
+	display: inline-grid;
+	grid-column: 1 / span 3;
+}
