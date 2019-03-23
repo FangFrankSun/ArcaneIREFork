@@ -22,6 +22,8 @@ header {
 	justify-content: space-around
 }
 .menu a {
+	display: none;
+
 	margin: 0rem 2rem;
 	color: #EEE;
 	font-size: 1.2rem;
@@ -98,8 +100,11 @@ footer {
 	background-color: #8a1212;
 	color: white;
 }
+.mobilesupport { display:inline-block;}
 
 @media only screen and (min-width: 600px) {
+	.mobilesupport { display: none;}
+
 	header {
 		padding: 0rem 1rem;
 		display: flex;
@@ -113,6 +118,8 @@ footer {
 		justify-content: space-around
 	}
 	.menu a {
+		display:inline-block;
+
 		margin: 0rem 2rem;
 		font-size: 1.2rem;
 	}
