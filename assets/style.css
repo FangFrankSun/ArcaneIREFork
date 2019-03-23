@@ -63,10 +63,9 @@ header {
 }
 .portfolio a {
 	color: #1E1E1E;
-	text-decoration: underline;
 }
 .portfolio a:hover {
-	text-decoration: underline;
+	color: #5A5A5A;
 }
 .portfolioItem {
 	display: block;
@@ -147,17 +146,17 @@ footer {
 		flex-wrap: wrap;
 		justify-content: center;
 	}
-	.portfolioItemContainer {
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: space-around;
-	}
 	.portfolioItem {
 		display: inline-block;
 		max-width: 40vw;
 		margin: 0 1rem 1rem 1rem;
 		border-radius: 1rem;
 		overflow: hidden;
+	}
+	.portfolioItemContainer {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
 	}
 	.portfolio h3 {
 	}
