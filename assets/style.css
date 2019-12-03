@@ -50,6 +50,10 @@ header {
 .about p {
 	padding: auto 1rem;
 }
+.about strong {
+	text-decoration: underline;
+	font-weight: 600;
+}
 
 .portfolio {
 	height: auto;
