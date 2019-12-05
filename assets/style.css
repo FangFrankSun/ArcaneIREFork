@@ -16,20 +16,30 @@ header {
 	line-height: 1;
 }
 .name {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 2.4rem;
+	letter-spacing: 4px;
 }
 .menu {
-	display: inline-flex;
-	justify-content: space-around
+	display: none;
 }
 .menu a {
 	display: none;
-
-	margin: 0rem 2rem;
-	color: #EEE;
-	font-size: 1.2rem;
-	text-decoration: none;
 }
 .menu a:hover {
+	text-decoration: underline;
+}
+.mobileLink{
+	display: block;
+	padding: 0.3rem 0;
+	color: #EEE;
+	background: rgb(65, 65, 65);
+	font-size: 1.2rem;
+	text-decoration: none;
+	text-align: center;
+	border-bottom: 1px solid #1E1E1E;
+}
+.mobileLink:active, .mobileLink:hover{
 	text-decoration: underline;
 }
 
@@ -95,6 +105,7 @@ header {
 	max-width: 350px;
 }
 .portfolioItem p {
+	/* Empty */
 }
 
 footer {
@@ -104,10 +115,9 @@ footer {
 	background-color: #8a1212;
 	color: white;
 }
-.mobilesupport { display:inline-block;}
+
 
 @media only screen and (min-width: 600px) {
-	.mobilesupport { display: none;}
 
 	header {
 		padding: 0rem 1rem;
@@ -119,13 +129,18 @@ footer {
 	}
 	.menu {
 		display: inline-flex;
-		justify-content: space-around
+		justify-content: space-around;
+		align-items: center;
 	}
 	.menu a {
-		display:inline-block;
-
+		display: inline-block;
 		margin: 0rem 2rem;
+		color: #EEE;
 		font-size: 1.2rem;
+		text-decoration: none;
+	}
+	.mobileLink {
+		display:none;
 	}
 
 	.about {
