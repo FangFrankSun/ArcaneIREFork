@@ -62,3 +62,21 @@ nav > *:hover {
 		font-size: 14px;
 	}
 }
+
+@media (prefers-color-scheme: dark) {
+	body {
+		color:#1E1E1E ;
+		background: #1E1E1E;
+	}
+
+	h1:hover {
+		color: #EEEEEE;
+	}
+	
+	nav > * {
+		color: #1E1E1E;
+	}
+	nav > *:hover {
+		color: #EEEEEE ;
+	}
+  }
