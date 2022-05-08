@@ -12,7 +12,7 @@ Of course, I’ve heard people say “don’t be afraid to fail” since I was a
 
 I started seriously looking at improvement when I decided to pursue becoming a better League of Legends player. From league coaches, among other sources, I gained a better understanding of *why* the fear of failure is bad.
 
-Learning happens when you push yourself, not from doing the same comfortable habits on repeat (definition of insanity, anyone?). Being afraid of pushing yourself or trying new things leads to avoiding learning opportunities and more stress when you do inevitably fail. A trendy example is SpaceX blowing up rocket after rocket until they have iterated to the top of the rocket building business.
+Learning happens when you push yourself, not from doing the same comfortable habits on repeat (definition of insanity, anyone?). Being afraid of pushing yourself or trying new things leads to avoiding learning opportunities and more stress when you do inevitably fail. A trendy example is SpaceX blowing up rocket after rocket until they iterated to the top of the rocket building business.
 
 <blockquote class="twitter-tweet tw-align-center" data-theme="dark"><p lang="en" dir="ltr">These problems are fundamentally intertwined. Building many rockets allows for successive approximation. Progress in any given technology is simply # of iterations * progress between iterations.</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1230636014001061891?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
