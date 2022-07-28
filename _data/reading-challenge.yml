@@ -1,0 +1,25 @@
+- name: REAMDE / Neal Stephenson / 1044 pages
+  percentage: 3.5
+  color: 
+
+- name: The Hero of Ages / Brandon Sanderson / 831 pages
+  percentage: 0
+  color: 
+
+- name: Warbreaker / Brandon Sanderson / 652 pages
+  percentage: 0
+  color: 
+
+- name: The Eye of the World / Robert Jordan / 771 pages
+  percentage: 0
+  color: 
+
+- name: Gardens of the Moon / Steve Erikson / 516 pages
+  percentage: 0
+  color: 
+
+- name: Total / 3814 pages
+  percentage: .9
+  color: 
+
+# secondary / success / danger / warning / info / light / dark (choose one only, default is primary)
