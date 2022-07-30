@@ -1,5 +1,5 @@
 - name: REAMDE / Neal Stephenson / 1044 pages
-  percentage: 19.9
+  percentage: 61.3
   color: 
 
 - name: The Hero of Ages / Brandon Sanderson / 831 pages
@@ -19,7 +19,7 @@
   color: 
 
 - name: Total / 3814 pages
-  percentage: 5
+  percentage: 16.8
   color: 
 
 # secondary / success / danger / warning / info / light / dark (choose one only, default is primary)
