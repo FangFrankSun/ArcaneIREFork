@@ -1,13 +1,13 @@
 - name: REAMDE / Neal Stephenson / 1044 pages
-  percentage: 88.7
-  color: 
+  percentage: 100
+  color: success
 
 - name: The Hero of Ages / Brandon Sanderson / 831 pages
   percentage: 0
   color: 
 
 - name: Warbreaker / Brandon Sanderson / 652 pages
-  percentage: 0
+  percentage: 0.1
   color: 
 
 - name: The Eye of the World / Robert Jordan / 771 pages
@@ -19,7 +19,7 @@
   color: 
 
 - name: Total / 3814 pages
-  percentage: 24.3
+  percentage: 27.3
   color: 
 
 # secondary / success / danger / warning / info / light / dark (choose one only, default is primary)
