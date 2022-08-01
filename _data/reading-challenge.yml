@@ -7,11 +7,11 @@
   color: 
 
 - name: Warbreaker / Brandon Sanderson / 652 pages
-  percentage: 40.7
-  color: 
+  percentage: 100
+  color: success
 
 - name: The Eye of the World / Robert Jordan / 771 pages
-  percentage: 0
+  percentage: 3
   color: 
 
 - name: Gardens of the Moon / Steve Erikson / 516 pages
@@ -19,7 +19,7 @@
   color: 
 
 - name: Total / 3814 pages
-  percentage: 34.3
+  percentage: 45.1
   color: 
 
 # secondary / success / danger / warning / info / light / dark (choose one only, default is primary)
