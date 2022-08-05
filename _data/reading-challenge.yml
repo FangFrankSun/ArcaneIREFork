@@ -11,7 +11,7 @@
   color: success
 
 - name: The Eye of the World / Robert Jordan / 771 pages
-  percentage: 35.8
+  percentage: 58.3
   color: 
 
 - name: Gardens of the Moon / Steve Erikson / 516 pages
@@ -19,7 +19,7 @@
   color: 
 
 - name: Total / 3814 pages
-  percentage: 51.7
+  percentage: 56.2
   color: 
 
 # secondary / success / danger / warning / info / light / dark (choose one only, default is primary)
