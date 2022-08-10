@@ -15,11 +15,11 @@
   color: success
 
 - name: Gardens of the Moon / Steve Erikson / 516 pages
-  percentage: 13
-  color: 
+  percentage: 100
+  color: success
 
 - name: Total / 3814 pages
-  percentage: 66.3
+  percentage: 78.2
   color: 
 
 # secondary / success / danger / warning / info / light / dark (choose one only, default is primary)
