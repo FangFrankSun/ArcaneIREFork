@@ -3,8 +3,8 @@
   color: success
 
 - name: The Hero of Ages / Brandon Sanderson / 831 pages
-  percentage: 48
-  color: 
+  percentage: 100
+  color: success
 
 - name: Warbreaker / Brandon Sanderson / 652 pages
   percentage: 100
@@ -19,7 +19,7 @@
   color: success
 
 - name: Total / 3814 pages
-  percentage: 88.6
-  color: 
+  percentage: 100
+  color: success
 
 # secondary / success / danger / warning / info / light / dark (choose one only, default is primary)
