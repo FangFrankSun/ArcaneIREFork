@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi, I am **{{ site.author.name }}** :wave:,
+Hi, I'm **David** :wave:,
 
 I'm a Computer Science student and hopefully future software engineer.
 
